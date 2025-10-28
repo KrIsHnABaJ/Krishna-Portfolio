@@ -225,8 +225,8 @@ export const SkillsInfo = [
         "REST API",
         "Full Stack",
       ],
-      github: "https://github.com/KrIsHnABaJ/event_management_system", // 🔁 Replace with your actual repo link
-      webapp: "https://event-management-system-alpha-nine.vercel.app", // 🔁 Replace with your live demo link if deployed
+      github: "https://github.com/KrIsHnABaJ/event_management_system",
+      webapp: "https://event-management-system-alpha-nine.vercel.app", 
     },
     {
       id: 3,
@@ -244,7 +244,7 @@ export const SkillsInfo = [
         "Vercel",
       ],
       github: "https://github.com/KrIsHnABaJ/Krishna-Portfolio",
-      webapp: "https://krishna-portfolio.vercel.app/", // 🔁 Replace with your live portfolio URL
+      webapp: "https://krishna-portfolio-bice.vercel.app", 
     },
 
     {
@@ -264,7 +264,7 @@ export const SkillsInfo = [
         "Data Visualization",
       ],
       github: "https://github.com/KrIsHnABaJ/holiday-shopping-analysis",
-      webapp: "https://github.com/KrIsHnABaJ/holiday-shopping-analysis/blob/main/README.md",
+      webapp: "https://github.com/KrIsHnABaJ/holiday-shopping-analysis/blob/main/readme.md",
     },
 
   ];
