@@ -49,7 +49,7 @@ import jindalLogo from './assets/education_logo/shriop.jpeg';
 // Project Section Logo's
 import vegifyLogo from './assets/work_logo/vegify.png';
 import fitflareLogo from './assets/work_logo/fitflare.png';
-import movierecLogo from './assets/work_logo/movie_rec.png';
+import portfolioLogo from './assets/work_logo/portfolio.png';
 import holidayshoppingLogo from './assets/work_logo/holiday_shopping.png';
 import eventmsLogo from './assets/work_logo/eventms.png';
 
@@ -230,6 +230,25 @@ export const SkillsInfo = [
     },
     {
       id: 3,
+      title: "Krishna-Portfolio",
+      description:
+        "A personal developer portfolio built to showcase my projects, technical skills, professional experience, and contact information. Designed with a clean, responsive UI and dynamic project integration for seamless updates. Features detailed sections for About, Projects, Skills, Resume, and Contact, making it a complete digital representation of my developer profile.",
+      image: portfolioLogo,
+      tags: [
+        "React JS",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Responsive Design",
+        "Vite",
+        "Vercel",
+      ],
+      github: "https://github.com/KrIsHnABaJ/Krishna-Portfolio",
+      webapp: "https://krishna-portfolio.vercel.app/", // 🔁 Replace with your live portfolio URL
+    },
+
+    {
+      id: 4,
       title: "Holiday Shopping Analysis",
       description:
         "A reproducible data science project for exploring, analyzing, and visualizing consumer shopping behavior during holiday seasons. Built with Python and Jupyter notebooks, the project includes end-to-end data pipelines for cleaning, feature engineering, exploratory data analysis (EDA), and baseline forecasting models. Designed to uncover key retail insights such as seasonal demand shifts, category performance, and customer engagement trends.",
